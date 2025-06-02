@@ -20,7 +20,7 @@
 A dupla desenvolveu quatro questões, considerando o nível de dificuldade: duas de complexidade média e duas de maior dificuldade.
 
 1. [322.Coin Changing](https://leetcode.com/problems/coin-change/description/) - Nível Médio
-2. [797. All Paths From Source to Target](https://leetcode.com/problems/all-paths-from-source-to-target/?envType=problem-list-v2&envId=graph) - Nível Médio
+2. [2406. Divide Intervals Into Minimum Number of Groups](https://leetcode.com/problems/divide-intervals-into-minimum-number-of-groups/description/) - Nível Médio
 3. [2025. Maximum Number of Ways to Partition an Array](https://leetcode.com/problems/maximum-number-of-ways-to-partition-an-array/description/) - Nível Difícil
 4. [1235. Maximum Profit in Job Scheduling](https://leetcode.com/problems/maximum-profit-in-job-scheduling/submissions/1651204865/) - Nível Difícil
 
@@ -35,7 +35,7 @@ A dupla desenvolveu quatro questões, considerando o nível de dificuldade: duas
 
 <br>
 
-### ✅ Accepted Maior Ciclo
+### ✅ Accepted Maximum Profit in Job Scheduling
 
 ![1235](img/1235.png)
 
@@ -43,9 +43,9 @@ A dupla desenvolveu quatro questões, considerando o nível de dificuldade: duas
 
 ![2025](img/2025.png)
 
-## ✅ Accepted Minimum Cost to Make at Least One Valid Path in a Grid 
+## ✅ Accepted Divide Intervals Into Minimum Number of Groups
 
-![Grafo Bipartido ](img/2.png)
+![2406](img/2406.png)
 
 ---
 
