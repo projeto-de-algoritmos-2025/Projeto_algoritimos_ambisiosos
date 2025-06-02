@@ -1,3 +1,6 @@
+from typing import List
+import bisect
+
 class Solution:
     def jobScheduling(self, startTime: List[int], endTime: List[int], profit: List[int]) -> int:
         intervals = sorted(zip(startTime, endTime, profit))
