@@ -1,4 +1,4 @@
-# Grafos1_Nic_Sam
+# Algoritimos Ambiosos
 
 **Conteúdo da Disciplina:** Grafos 1
 
