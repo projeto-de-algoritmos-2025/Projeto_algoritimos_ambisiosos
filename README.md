@@ -1,6 +1,6 @@
-# Projeto_algoritimos_ambisiosos
+# Grafos1_Nic_Sam
 
-**Conteúdo da Disciplina:** Algoritimos Ambisiosos
+**Conteúdo da Disciplina:** Grafos 1
 
 ---
 
@@ -19,17 +19,33 @@
 
 A dupla desenvolveu quatro questões, considerando o nível de dificuldade: duas de complexidade média e duas de maior dificuldade.
 
+1. [Grafo Bipartido](https://leetcode.com/problems/is-graph-bipartite/description/) - Nível Médio
+2. [797. All Paths From Source to Target](https://leetcode.com/problems/all-paths-from-source-to-target/?envType=problem-list-v2&envId=graph) - Nível Médio
+3. [1368. Minimum Cost to Make at Least One Valid Path in a Grid](https://leetcode.com/problems/minimum-cost-to-make-at-least-one-valid-path-in-a-grid/description/?envType=problem-list-v2&envId=graph) - Nível Difícil
+4. [2360. Longest Cycle in a Graph](https://leetcode.com/problems/longest-cycle-in-a-graph/description/) - Nível Difícil
 
 
 ---
 
 ## 📸 Screenshots
 
+### ✅ Accepted Grafo Bipartido 
 
+![Grafo Bipartido](imagens/bipartido.png)
 
 <br>
 
+### ✅ Accepted Maior Ciclo
 
+![Grafo Bipartido ](imagens/maior_ciclo.jpg)
+
+### ✅ Accepted All Paths From Source to Target 
+
+![Grafo Bipartido ](imagens/797.png)
+
+## ✅ Accepted Minimum Cost to Make at Least One Valid Path in a Grid 
+
+![Grafo Bipartido ](imagens/2.png)
 
 ---
 
@@ -38,6 +54,7 @@ A dupla desenvolveu quatro questões, considerando o nível de dificuldade: duas
 
 Neste vídeo, apresentamos um resumo completo do trabalho desenvolvido, abordando os principais pontos discutidos ao longo do projeto.
 
+[Assista no YouTube](https://www.youtube.com/embed/eVwhXkchyhM?si=HuzoJLb-MvQSMswB)
 
 ---
 ## ⚙️ Instalação
