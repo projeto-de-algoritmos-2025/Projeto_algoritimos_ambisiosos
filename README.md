@@ -19,9 +19,9 @@
 
 A dupla desenvolveu quatro questões, considerando o nível de dificuldade: duas de complexidade média e duas de maior dificuldade.
 
-1. [Grafo Bipartido](https://leetcode.com/problems/is-graph-bipartite/description/) - Nível Médio
+1. [322.Coin Changing](https://leetcode.com/problems/coin-change/description/) - Nível Médio
 2. [797. All Paths From Source to Target](https://leetcode.com/problems/all-paths-from-source-to-target/?envType=problem-list-v2&envId=graph) - Nível Médio
-3. [1368. Minimum Cost to Make at Least One Valid Path in a Grid](https://leetcode.com/problems/minimum-cost-to-make-at-least-one-valid-path-in-a-grid/description/?envType=problem-list-v2&envId=graph) - Nível Difícil
+3. [2025. Maximum Number of Ways to Partition an Array](https://leetcode.com/problems/maximum-number-of-ways-to-partition-an-array/description/) - Nível Difícil
 4. [1235. Maximum Profit in Job Scheduling](https://leetcode.com/problems/maximum-profit-in-job-scheduling/submissions/1651204865/) - Nível Difícil
 
 
@@ -31,21 +31,21 @@ A dupla desenvolveu quatro questões, considerando o nível de dificuldade: duas
 
 ### ✅ Accepted Coin Changing
 
-![322](imagens/322.png)
+![322](img/322.png)
 
 <br>
 
 ### ✅ Accepted Maior Ciclo
 
-![1235](imagens/1235.png)
+![1235](img/1235.png)
 
-### ✅ Accepted All Paths From Source to Target 
+### ✅ Accepted Maximum Number of Ways to Partition an Array
 
-![Grafo Bipartido ](imagens/797.png)
+![2025](img/2025.png)
 
 ## ✅ Accepted Minimum Cost to Make at Least One Valid Path in a Grid 
 
-![Grafo Bipartido ](imagens/2.png)
+![Grafo Bipartido ](img/2.png)
 
 ---
 
@@ -54,7 +54,7 @@ A dupla desenvolveu quatro questões, considerando o nível de dificuldade: duas
 
 Neste vídeo, apresentamos um resumo completo do trabalho desenvolvido, abordando os principais pontos discutidos ao longo do projeto.
 
-[Assista no YouTube](https://www.youtube.com/embed/eVwhXkchyhM?si=HuzoJLb-MvQSMswB)
+[Assista no YouTube]()
 
 ---
 ## ⚙️ Instalação
