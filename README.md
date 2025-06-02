@@ -29,9 +29,9 @@ A dupla desenvolveu quatro questões, considerando o nível de dificuldade: duas
 
 ## 📸 Screenshots
 
-### ✅ Accepted Grafo Bipartido 
+### ✅ Accepted Coin Changing
 
-![Grafo Bipartido](imagens/bipartido.png)
+![322](imagens/322.png)
 
 <br>
 
