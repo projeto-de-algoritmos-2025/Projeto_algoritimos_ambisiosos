@@ -22,7 +22,7 @@ A dupla desenvolveu quatro questões, considerando o nível de dificuldade: duas
 1. [Grafo Bipartido](https://leetcode.com/problems/is-graph-bipartite/description/) - Nível Médio
 2. [797. All Paths From Source to Target](https://leetcode.com/problems/all-paths-from-source-to-target/?envType=problem-list-v2&envId=graph) - Nível Médio
 3. [1368. Minimum Cost to Make at Least One Valid Path in a Grid](https://leetcode.com/problems/minimum-cost-to-make-at-least-one-valid-path-in-a-grid/description/?envType=problem-list-v2&envId=graph) - Nível Difícil
-4. [2360. Longest Cycle in a Graph](https://leetcode.com/problems/longest-cycle-in-a-graph/description/) - Nível Difícil
+4. [1235. Maximum Profit in Job Scheduling](https://leetcode.com/problems/maximum-profit-in-job-scheduling/submissions/1651204865/) - Nível Difícil
 
 
 ---
@@ -37,7 +37,7 @@ A dupla desenvolveu quatro questões, considerando o nível de dificuldade: duas
 
 ### ✅ Accepted Maior Ciclo
 
-![Grafo Bipartido ](imagens/maior_ciclo.jpg)
+![1235](imagens/1235.png)
 
 ### ✅ Accepted All Paths From Source to Target 
 
